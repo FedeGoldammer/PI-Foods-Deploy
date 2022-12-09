@@ -1,0 +1,142 @@
+
+.addRecipe {    
+    display:flex;
+    flex-direction: column;
+    
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.prettierForm {
+    margin-left: auto;
+    margin-right: auto;
+    align-content: space-around;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+.goBackButton {
+    background-color: #605a53b0;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 25px;
+    margin: 5px;
+    border-radius: 10px;
+    border-color: #e0d0c19f;
+    cursor: pointer;
+}
+
+.goBackButton:hover {
+    color:#EAE6E5;
+    background-color: #e0d0c19f;
+}
+
+.submitButton {
+    background-color: #605a53b0;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 25px;
+    margin: 5px;
+    border-radius: 10px;
+    border-color: #e0d0c19f;
+    cursor: pointer;
+}
+
+.submitButton:hover {
+    color:#EAE6E5;
+    background-color: #e0d0c19f;
+}
+
+.msg {
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 35px;
+    flex-direction: column;
+    justify-content: center;    
+    color: #ffffff;
+    font-style: Helvetica;
+    font-size: 34px; 
+    text-shadow: 1px 1px 2px black;
+}
+
+.msgs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+    text-align: center;
+    border-color: #e0d0c19f;
+    cursor: pointer;
+}
+
+.nameInput {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 7px;
+    
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    border-radius: 6px;
+    border-color: #e0d0c19f;
+    background-color: #605a53b0;
+    font-size: 18px;
+    width: 700px;
+}
+
+.checkSelect {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;   
+    flex-wrap: wrap;
+    padding: 40px;
+}
+
+.dietas {
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 25px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #605a53b0;
+}
+
+.checks {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1px;
+}
+
+.errors {
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+}

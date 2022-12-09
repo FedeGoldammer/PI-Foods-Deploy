@@ -1,0 +1,91 @@
+
+.landingBackground {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;   
+    margin-bottom: 70px;   
+    margin-left: 600px;
+    margin-right: 150px;
+    background-color: #e0d0c19f; 
+    border-radius: 10px;
+    box-shadow: 2px 4px 20px rgba(0, 0, 0, 0.58);
+}
+
+.landingBackground0 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;   
+    margin-bottom: 70px;   
+    margin-left: 600px;
+    margin-right: 150px;
+    border-radius: 10px;
+}
+
+.landing0 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;    
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.landing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;    
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+}
+
+.welcomeMsg {
+    display: flex;
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #ffffff;
+    font-style: Helvetica;
+    font-size: 28px; 
+    text-shadow: 1px 1px 2px black;
+}
+
+.welcomeMsgExp {
+    display: flex;
+    padding: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #ffffff;
+    font-style: Helvetica;
+    font-size: 28px; 
+    text-shadow: 1px 1px 2px black;
+}
+
+.homeButton {
+    color: #ffffff;
+    font-size: 30px;
+    font-style: Helvetica;
+    text-align: center;
+    padding: 10px 25px;
+    margin-top: 130px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    cursor: pointer;
+    text-shadow: 1px 1px 2px black;
+}
+
+.homeButton:hover {
+    color:#000000;
+}

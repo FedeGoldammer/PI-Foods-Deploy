@@ -1,0 +1,126 @@
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.refreshButton {
+    background-color: #605a53b0;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 25px;
+    margin: 5px;
+    border-radius: 10px;
+    border-color: #e0d0c19f;
+    cursor: pointer;
+}
+
+.refreshButton:hover {
+    color:#EAE6E5;
+    background-color: #e0d0c19f;
+}
+
+.addButton {
+    background-color: #605a53b0;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 25px;
+    margin: 5px;
+    border-radius: 10px;
+    border-color: #e0d0c19f;
+    cursor: pointer;
+}
+
+.addButton:hover {
+    color:#EAE6E5;
+    background-color: #e0d0c19f;
+}
+
+.recipesSearch {
+    color: #12130F;
+    font-style: Helvetica;
+    text-shadow: 0,5px, 0,5px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px 15px;
+    margin: 10px;
+    border-radius: 5px;
+    border-color: #8F8073;
+    width: 1250px;
+    height: 1100px;
+}
+
+.filters {
+    border-radius: 3px;
+    display: flex;
+    color: #ffffff;
+    font-style: Helvetica;
+    font-weight: 500;    
+    padding: 10px 3px 0px;
+}
+
+.select {
+    border-radius: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+}
+
+.select0 {
+    border-radius: 3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-style: Helvetica;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #605a53b0;
+    color: #ffffff;
+    font-style: Helvetica;
+    text-shadow: 1px 1px 2px black;
+    font-size: 20px;
+}
+
+.eachRecipe {
+    display: flex;
+    padding: 3px;
+}
+
+.linkRecetas {    
+    text-decoration: none;    
+}
+
+.linkRecetas:visited {
+    color: none;
+    text-decoration: none;
+}
+
+.allrecipes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;   
+    flex-wrap: wrap;
+    padding: 10px;
+    
+}
