@@ -10,7 +10,7 @@ Some features of the project: Search by name, ordering, filters, recipe creation
 
 ## Project screenshots
 
-https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/blob/main/client/src/assets/cap1.png
+https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/main/client/src/assets/cap1.png
 
 
 ## Built with 🛠️
