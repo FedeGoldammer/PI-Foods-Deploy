@@ -12,6 +12,15 @@ Some features of the project: Search by name, ordering, filters, recipe creation
 
 ![Screenshot 1](https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/main/client/src/assets/cap1.png)
 
+![Screenshot 2](https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/main/client/src/assets/cap2.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/main/client/src/assets/cap3.png)
+
+![Screenshot 4](https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/main/client/src/assets/cap4.png)
+
+![Screenshot 5](https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/main/client/src/assets/cap5.png)
+
+![Screenshot 6](https://raw.githubusercontent.com/Zaikkoz/PI-Foods-Deploy/main/client/src/assets/cap6.png)
 
 ## Built with 🛠️
 
