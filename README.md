@@ -1,6 +1,6 @@
 # Henry Bootcamp Individual Project
 
-# GameScript App
+# Food App
 
 Recipe website carried out during the individual stage of the SoyHenry bootcamp.  
 
